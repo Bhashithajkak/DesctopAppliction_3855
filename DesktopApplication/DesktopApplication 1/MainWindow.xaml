@@ -1,0 +1,126 @@
+﻿<Window x:Class="DesktopApplication_1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DesktopApplication_1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="600" Width="900"
+        WindowStyle="None"
+        ResizeMode="NoResize"
+        WindowStartupLocation="CenterScreen"
+        Background="Transparent"
+        MouseDown="Window_MouseDown"
+        AllowsTransparency="True">
+    <Window.DataContext>
+        <local:MainWindowVM/>
+    </Window.DataContext>
+    <Border CornerRadius="20"
+            BorderThickness="4">
+        <Border.BorderBrush>
+            <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
+                <GradientStop Color="#462AD8" Offset="0"/>
+                <GradientStop Color="#8A16C1" Offset="1"/>
+                
+            </LinearGradientBrush>
+        </Border.BorderBrush>
+        <Border.Background>
+            <LinearGradientBrush StartPoint="0,1" EndPoint="1,0">
+                <GradientStop Color="#FF04052D" Offset="0"/>
+                <GradientStop Color="#FF060A31" Offset="0.25"/>
+                <GradientStop Color="#181448" Offset="0.50"/>
+                <GradientStop Color="#FF04052D" Offset="1"/>
+            </LinearGradientBrush>
+        </Border.Background>
+        <Grid Margin="10">
+
+            <Grid.RowDefinitions>
+                <RowDefinition Height="150"/>
+                <RowDefinition/>
+                <RowDefinition Height="60"/>
+            </Grid.RowDefinitions>
+
+            <StackPanel Grid.Row="0" Margin="10,20,10,20">
+                <TextBlock Text="Welcome To" Margin="10 20 10 0" Padding="5" Foreground="White" HorizontalAlignment="Center" FontSize="18" FontFamily="Harlow Solid Italic"/>
+
+                <TextBlock Text="STUDENT LIST" Margin="10 0 10 10" Padding="5"  HorizontalAlignment="Center" FontSize="25" FontWeight="Bold" Foreground="White" FontFamily="Book Antiqua"/>
+
+            </StackPanel>
+
+
+
+            <StackPanel Grid.Row="1"  Margin="10,5,10,5">
+                
+
+                <Grid Margin="20 0" Visibility="Visible" Width="700">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="*"/>
+
+                    </Grid.ColumnDefinitions>
+
+
+                    <TextBlock Margin="5" Text="First Name" Grid.Column="1" Foreground="White" FontSize="14"/>
+                    <TextBlock Margin="5" Text="Last Name" Grid.Column="2" Foreground="White" FontSize="14"/>
+                    <TextBlock Margin="5" Text="Age" Grid.Column="3" Foreground="White" FontSize="14"/>
+                    <TextBlock Margin="5" Text="Date Of Birth" Grid.Column="4" Foreground="White" FontSize="14"/>
+                    <TextBlock Margin="5" Text="GPA Value" Grid.Column="5" Foreground="White" FontSize="14"/>
+
+                </Grid>
+
+                <ListView ItemsSource="{Binding Students}"  SelectedItem="{Binding SelectedStudent}" Height="300" Background="Transparent" Foreground="#FF7BAAB5"  BorderThickness="2" BorderBrush="Black" SelectionChanged="ListView_SelectionChanged" Margin="40 10 40 10" Padding="5 10">
+                    <ListView.ItemContainerStyle>
+                        <Style TargetType="ListViewItem">
+                            <Style.Triggers>
+                                <Trigger Property="IsMouseOver" Value="True">
+                                    <Setter Property="Background" Value="White"/>
+                                </Trigger>
+                            </Style.Triggers>
+                        </Style>
+                    </ListView.ItemContainerStyle>
+                    <ListView.ItemTemplate >
+                        <DataTemplate>
+                            <Grid Margin="20 0" Visibility="Visible" Width="700">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="*"/>
+                                    <ColumnDefinition Width="*"/>
+                                    <ColumnDefinition Width="*"/>
+                                    <ColumnDefinition Width="*"/>
+                                    <ColumnDefinition Width="*"/>
+                                    <ColumnDefinition Width="*"/>
+
+                                </Grid.ColumnDefinitions>
+
+                                <Image Source="{Binding Image}"  Width="40" Height="40" Grid.Column="0"/>
+                                <TextBlock Margin="5" Text="{Binding FirstName}" Grid.Column="1"/>
+                                <TextBlock Margin="5" Text="{Binding LastName}" Grid.Column="2"/>
+                                <TextBlock Margin="5" Text="{Binding Age}" Grid.Column="3"/>
+                                <TextBlock Margin="5" Text="{Binding DateofBirth}" Grid.Column="4"/>
+                                <TextBlock Margin="5" Text="{Binding Gpa}" Grid.Column="5"/>
+
+                            </Grid>
+                        </DataTemplate>
+                    </ListView.ItemTemplate>
+
+
+                </ListView>
+
+            </StackPanel>
+
+            <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center" Orientation="Horizontal" Grid.Row="2" Height="40" Width="440">
+                <Button Content="Delete" Command="{Binding DeleteStudentCommand}" Style="{StaticResource mainmenubutten}"/>
+                <Button Content="Modify" Command="{Binding ModifyStudentCommand}" Style="{StaticResource mainmenubutten}"/>
+                <Button Content="Add New" Command="{Binding AddStudentCommand}" Style="{StaticResource mainmenubutten}"/>
+                <Button Content="Exit" Command="{Binding ExitCommand}" Style="{StaticResource mainmenubutten}"/>
+
+            </StackPanel>
+
+
+
+        </Grid>
+    </Border>
+</Window>

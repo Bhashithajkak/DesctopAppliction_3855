@@ -1,0 +1,106 @@
+C:\Users\Kavindu\source\repos\DesktopApplication 1\DesktopApplication 1\bin\Debug\net6.0-windows\DesktopApplication 1.exe
+C:\Users\Kavindu\source\repos\DesktopApplication 1\DesktopApplication 1\bin\Debug\net6.0-windows\DesktopApplication 1.deps.json
+C:\Users\Kavindu\source\repos\DesktopApplication 1\DesktopApplication 1\bin\Debug\net6.0-windows\DesktopApplication 1.runtimeconfig.json
+C:\Users\Kavindu\source\repos\DesktopApplication 1\DesktopApplication 1\bin\Debug\net6.0-windows\DesktopApplication 1.dll
+C:\Users\Kavindu\source\repos\DesktopApplication 1\DesktopApplication 1\bin\Debug\net6.0-windows\DesktopApplication 1.pdb
+C:\Users\Kavindu\source\repos\DesktopApplication 1\DesktopApplication 1\bin\Debug\net6.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\Kavindu\source\repos\DesktopApplication 1\DesktopApplication 1\obj\Debug\net6.0-windows\DesktopApplication 1.csproj.AssemblyReference.cache
+C:\Users\Kavindu\source\repos\DesktopApplication 1\DesktopApplication 1\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Kavindu\source\repos\DesktopApplication 1\DesktopApplication 1\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Kavindu\source\repos\DesktopApplication 1\DesktopApplication 1\obj\Debug\net6.0-windows\DesktopApplication 1_MarkupCompile.cache
+C:\Users\Kavindu\source\repos\DesktopApplication 1\DesktopApplication 1\obj\Debug\net6.0-windows\DesktopApplication 1_MarkupCompile.lref
+C:\Users\Kavindu\source\repos\DesktopApplication 1\DesktopApplication 1\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Kavindu\source\repos\DesktopApplication 1\DesktopApplication 1\obj\Debug\net6.0-windows\DesktopApplication 1.g.resources
+C:\Users\Kavindu\source\repos\DesktopApplication 1\DesktopApplication 1\obj\Debug\net6.0-windows\DesktopApplication 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kavindu\source\repos\DesktopApplication 1\DesktopApplication 1\obj\Debug\net6.0-windows\DesktopApplication 1.AssemblyInfoInputs.cache
+C:\Users\Kavindu\source\repos\DesktopApplication 1\DesktopApplication 1\obj\Debug\net6.0-windows\DesktopApplication 1.AssemblyInfo.cs
+C:\Users\Kavindu\source\repos\DesktopApplication 1\DesktopApplication 1\obj\Debug\net6.0-windows\DesktopApplication 1.csproj.CoreCompileInputs.cache
+C:\Users\Kavindu\source\repos\DesktopApplication 1\DesktopApplication 1\obj\Debug\net6.0-windows\DesktopApplication 1.csproj.CopyComplete
+C:\Users\Kavindu\source\repos\DesktopApplication 1\DesktopApplication 1\obj\Debug\net6.0-windows\DesktopApplication 1.dll
+C:\Users\Kavindu\source\repos\DesktopApplication 1\DesktopApplication 1\obj\Debug\net6.0-windows\refint\DesktopApplication 1.dll
+C:\Users\Kavindu\source\repos\DesktopApplication 1\DesktopApplication 1\obj\Debug\net6.0-windows\DesktopApplication 1.pdb
+C:\Users\Kavindu\source\repos\DesktopApplication 1\DesktopApplication 1\obj\Debug\net6.0-windows\DesktopApplication 1.genruntimeconfig.cache
+C:\Users\Kavindu\source\repos\DesktopApplication 1\DesktopApplication 1\obj\Debug\net6.0-windows\ref\DesktopApplication 1.dll
+C:\Users\Kavindu\source\repos\DesktopApplication 1\DesktopApplication 1\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Kavindu\source\repos\DesktopApplication 1\DesktopApplication 1\obj\Debug\net6.0-windows\ModifyWindow.g.cs
+C:\Users\Kavindu\source\repos\DesktopApplication 1\DesktopApplication 1\obj\Debug\net6.0-windows\ModifyWindow.baml
+C:\Users\tisha\OneDrive\Desktop\DesktopApplication 1\DesktopApplication 1\obj\Debug\net6.0-windows\DesktopApplication 1.csproj.AssemblyReference.cache
+C:\Users\tisha\OneDrive\Desktop\DesktopApplication 1\DesktopApplication 1\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\tisha\OneDrive\Desktop\DesktopApplication 1\DesktopApplication 1\obj\Debug\net6.0-windows\ModifyWindow.g.cs
+C:\Users\tisha\OneDrive\Desktop\DesktopApplication 1\DesktopApplication 1\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\tisha\OneDrive\Desktop\DesktopApplication 1\DesktopApplication 1\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\tisha\OneDrive\Desktop\DesktopApplication 1\DesktopApplication 1\obj\Debug\net6.0-windows\DesktopApplication 1_MarkupCompile.cache
+C:\Users\tisha\OneDrive\Desktop\DesktopApplication 1\DesktopApplication 1\obj\Debug\net6.0-windows\DesktopApplication 1_MarkupCompile.lref
+C:\Users\tisha\OneDrive\Desktop\DesktopApplication 1\DesktopApplication 1\bin\Debug\net6.0-windows\DesktopApplication 1.exe
+C:\Users\tisha\OneDrive\Desktop\DesktopApplication 1\DesktopApplication 1\bin\Debug\net6.0-windows\DesktopApplication 1.deps.json
+C:\Users\tisha\OneDrive\Desktop\DesktopApplication 1\DesktopApplication 1\bin\Debug\net6.0-windows\DesktopApplication 1.runtimeconfig.json
+C:\Users\tisha\OneDrive\Desktop\DesktopApplication 1\DesktopApplication 1\bin\Debug\net6.0-windows\DesktopApplication 1.dll
+C:\Users\tisha\OneDrive\Desktop\DesktopApplication 1\DesktopApplication 1\bin\Debug\net6.0-windows\DesktopApplication 1.pdb
+C:\Users\tisha\OneDrive\Desktop\DesktopApplication 1\DesktopApplication 1\bin\Debug\net6.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\tisha\OneDrive\Desktop\DesktopApplication 1\DesktopApplication 1\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\tisha\OneDrive\Desktop\DesktopApplication 1\DesktopApplication 1\obj\Debug\net6.0-windows\ModifyWindow.baml
+C:\Users\tisha\OneDrive\Desktop\DesktopApplication 1\DesktopApplication 1\obj\Debug\net6.0-windows\DesktopApplication 1.g.resources
+C:\Users\tisha\OneDrive\Desktop\DesktopApplication 1\DesktopApplication 1\obj\Debug\net6.0-windows\DesktopApplication 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tisha\OneDrive\Desktop\DesktopApplication 1\DesktopApplication 1\obj\Debug\net6.0-windows\DesktopApplication 1.AssemblyInfoInputs.cache
+C:\Users\tisha\OneDrive\Desktop\DesktopApplication 1\DesktopApplication 1\obj\Debug\net6.0-windows\DesktopApplication 1.AssemblyInfo.cs
+C:\Users\tisha\OneDrive\Desktop\DesktopApplication 1\DesktopApplication 1\obj\Debug\net6.0-windows\DesktopApplication 1.csproj.CoreCompileInputs.cache
+C:\Users\tisha\OneDrive\Desktop\DesktopApplication 1\DesktopApplication 1\obj\Debug\net6.0-windows\DesktopApplication 1.csproj.CopyComplete
+C:\Users\tisha\OneDrive\Desktop\DesktopApplication 1\DesktopApplication 1\obj\Debug\net6.0-windows\DesktopApplication 1.dll
+C:\Users\tisha\OneDrive\Desktop\DesktopApplication 1\DesktopApplication 1\obj\Debug\net6.0-windows\refint\DesktopApplication 1.dll
+C:\Users\tisha\OneDrive\Desktop\DesktopApplication 1\DesktopApplication 1\obj\Debug\net6.0-windows\DesktopApplication 1.pdb
+C:\Users\tisha\OneDrive\Desktop\DesktopApplication 1\DesktopApplication 1\obj\Debug\net6.0-windows\DesktopApplication 1.genruntimeconfig.cache
+C:\Users\tisha\OneDrive\Desktop\DesktopApplication 1\DesktopApplication 1\obj\Debug\net6.0-windows\ref\DesktopApplication 1.dll
+C:\Users\Kavindu\Downloads\DesktopApplication 1\DesktopApplication 1\bin\Debug\net6.0-windows\DesktopApplication 1.exe
+C:\Users\Kavindu\Downloads\DesktopApplication 1\DesktopApplication 1\bin\Debug\net6.0-windows\DesktopApplication 1.deps.json
+C:\Users\Kavindu\Downloads\DesktopApplication 1\DesktopApplication 1\bin\Debug\net6.0-windows\DesktopApplication 1.runtimeconfig.json
+C:\Users\Kavindu\Downloads\DesktopApplication 1\DesktopApplication 1\bin\Debug\net6.0-windows\DesktopApplication 1.dll
+C:\Users\Kavindu\Downloads\DesktopApplication 1\DesktopApplication 1\bin\Debug\net6.0-windows\DesktopApplication 1.pdb
+C:\Users\Kavindu\Downloads\DesktopApplication 1\DesktopApplication 1\bin\Debug\net6.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\Kavindu\Downloads\DesktopApplication 1\DesktopApplication 1\obj\Debug\net6.0-windows\DesktopApplication 1.csproj.AssemblyReference.cache
+C:\Users\Kavindu\Downloads\DesktopApplication 1\DesktopApplication 1\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Kavindu\Downloads\DesktopApplication 1\DesktopApplication 1\obj\Debug\net6.0-windows\ModifyWindow.g.cs
+C:\Users\Kavindu\Downloads\DesktopApplication 1\DesktopApplication 1\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Kavindu\Downloads\DesktopApplication 1\DesktopApplication 1\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Kavindu\Downloads\DesktopApplication 1\DesktopApplication 1\obj\Debug\net6.0-windows\DesktopApplication 1_MarkupCompile.cache
+C:\Users\Kavindu\Downloads\DesktopApplication 1\DesktopApplication 1\obj\Debug\net6.0-windows\DesktopApplication 1_MarkupCompile.lref
+C:\Users\Kavindu\Downloads\DesktopApplication 1\DesktopApplication 1\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Kavindu\Downloads\DesktopApplication 1\DesktopApplication 1\obj\Debug\net6.0-windows\ModifyWindow.baml
+C:\Users\Kavindu\Downloads\DesktopApplication 1\DesktopApplication 1\obj\Debug\net6.0-windows\DesktopApplication 1.g.resources
+C:\Users\Kavindu\Downloads\DesktopApplication 1\DesktopApplication 1\obj\Debug\net6.0-windows\DesktopApplication 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kavindu\Downloads\DesktopApplication 1\DesktopApplication 1\obj\Debug\net6.0-windows\DesktopApplication 1.AssemblyInfoInputs.cache
+C:\Users\Kavindu\Downloads\DesktopApplication 1\DesktopApplication 1\obj\Debug\net6.0-windows\DesktopApplication 1.AssemblyInfo.cs
+C:\Users\Kavindu\Downloads\DesktopApplication 1\DesktopApplication 1\obj\Debug\net6.0-windows\DesktopApplication 1.csproj.CoreCompileInputs.cache
+C:\Users\Kavindu\Downloads\DesktopApplication 1\DesktopApplication 1\obj\Debug\net6.0-windows\DesktopApplication 1.csproj.CopyComplete
+C:\Users\Kavindu\Downloads\DesktopApplication 1\DesktopApplication 1\obj\Debug\net6.0-windows\DesktopApplication 1.dll
+C:\Users\Kavindu\Downloads\DesktopApplication 1\DesktopApplication 1\obj\Debug\net6.0-windows\refint\DesktopApplication 1.dll
+C:\Users\Kavindu\Downloads\DesktopApplication 1\DesktopApplication 1\obj\Debug\net6.0-windows\DesktopApplication 1.pdb
+C:\Users\Kavindu\Downloads\DesktopApplication 1\DesktopApplication 1\obj\Debug\net6.0-windows\DesktopApplication 1.genruntimeconfig.cache
+C:\Users\Kavindu\Downloads\DesktopApplication 1\DesktopApplication 1\obj\Debug\net6.0-windows\ref\DesktopApplication 1.dll
+C:\Users\Kavindu\Downloads\DesktopApplication 1\DesktopApplication 1\obj\Debug\net6.0-windows\App.baml
+C:\Users\Kavindu\Desktop\Semester 3\gui programming\DesktopApplication 1\DesktopApplication 1\bin\Debug\net6.0-windows\DesktopApplication 1.exe
+C:\Users\Kavindu\Desktop\Semester 3\gui programming\DesktopApplication 1\DesktopApplication 1\bin\Debug\net6.0-windows\DesktopApplication 1.deps.json
+C:\Users\Kavindu\Desktop\Semester 3\gui programming\DesktopApplication 1\DesktopApplication 1\bin\Debug\net6.0-windows\DesktopApplication 1.runtimeconfig.json
+C:\Users\Kavindu\Desktop\Semester 3\gui programming\DesktopApplication 1\DesktopApplication 1\bin\Debug\net6.0-windows\DesktopApplication 1.dll
+C:\Users\Kavindu\Desktop\Semester 3\gui programming\DesktopApplication 1\DesktopApplication 1\bin\Debug\net6.0-windows\DesktopApplication 1.pdb
+C:\Users\Kavindu\Desktop\Semester 3\gui programming\DesktopApplication 1\DesktopApplication 1\bin\Debug\net6.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\Kavindu\Desktop\Semester 3\gui programming\DesktopApplication 1\DesktopApplication 1\obj\Debug\net6.0-windows\DesktopApplication 1.csproj.AssemblyReference.cache
+C:\Users\Kavindu\Desktop\Semester 3\gui programming\DesktopApplication 1\DesktopApplication 1\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Kavindu\Desktop\Semester 3\gui programming\DesktopApplication 1\DesktopApplication 1\obj\Debug\net6.0-windows\ModifyWindow.g.cs
+C:\Users\Kavindu\Desktop\Semester 3\gui programming\DesktopApplication 1\DesktopApplication 1\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Kavindu\Desktop\Semester 3\gui programming\DesktopApplication 1\DesktopApplication 1\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Kavindu\Desktop\Semester 3\gui programming\DesktopApplication 1\DesktopApplication 1\obj\Debug\net6.0-windows\DesktopApplication 1_MarkupCompile.cache
+C:\Users\Kavindu\Desktop\Semester 3\gui programming\DesktopApplication 1\DesktopApplication 1\obj\Debug\net6.0-windows\DesktopApplication 1_MarkupCompile.lref
+C:\Users\Kavindu\Desktop\Semester 3\gui programming\DesktopApplication 1\DesktopApplication 1\obj\Debug\net6.0-windows\App.baml
+C:\Users\Kavindu\Desktop\Semester 3\gui programming\DesktopApplication 1\DesktopApplication 1\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Kavindu\Desktop\Semester 3\gui programming\DesktopApplication 1\DesktopApplication 1\obj\Debug\net6.0-windows\ModifyWindow.baml
+C:\Users\Kavindu\Desktop\Semester 3\gui programming\DesktopApplication 1\DesktopApplication 1\obj\Debug\net6.0-windows\DesktopApplication 1.g.resources
+C:\Users\Kavindu\Desktop\Semester 3\gui programming\DesktopApplication 1\DesktopApplication 1\obj\Debug\net6.0-windows\DesktopApplication 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kavindu\Desktop\Semester 3\gui programming\DesktopApplication 1\DesktopApplication 1\obj\Debug\net6.0-windows\DesktopApplication 1.AssemblyInfoInputs.cache
+C:\Users\Kavindu\Desktop\Semester 3\gui programming\DesktopApplication 1\DesktopApplication 1\obj\Debug\net6.0-windows\DesktopApplication 1.AssemblyInfo.cs
+C:\Users\Kavindu\Desktop\Semester 3\gui programming\DesktopApplication 1\DesktopApplication 1\obj\Debug\net6.0-windows\DesktopApplication 1.csproj.CoreCompileInputs.cache
+C:\Users\Kavindu\Desktop\Semester 3\gui programming\DesktopApplication 1\DesktopApplication 1\obj\Debug\net6.0-windows\DesktopApplication 1.csproj.CopyComplete
+C:\Users\Kavindu\Desktop\Semester 3\gui programming\DesktopApplication 1\DesktopApplication 1\obj\Debug\net6.0-windows\DesktopApplication 1.dll
+C:\Users\Kavindu\Desktop\Semester 3\gui programming\DesktopApplication 1\DesktopApplication 1\obj\Debug\net6.0-windows\refint\DesktopApplication 1.dll
+C:\Users\Kavindu\Desktop\Semester 3\gui programming\DesktopApplication 1\DesktopApplication 1\obj\Debug\net6.0-windows\DesktopApplication 1.pdb
+C:\Users\Kavindu\Desktop\Semester 3\gui programming\DesktopApplication 1\DesktopApplication 1\obj\Debug\net6.0-windows\DesktopApplication 1.genruntimeconfig.cache
+C:\Users\Kavindu\Desktop\Semester 3\gui programming\DesktopApplication 1\DesktopApplication 1\obj\Debug\net6.0-windows\ref\DesktopApplication 1.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "AtV3JV1HyPgJsU5eW8llIYNd+NLP32+7KYlQrNzWsF5TM3yrK7BsOY7jSxhSxzWRLKupTQvF4+vYjYVLC63iUw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kavindu\\Desktop\\Semester 3\\gui programming\\DesktopApplication 1\\DesktopApplication 1\\DesktopApplication 1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kavindu\\.nuget\\packages\\communitytoolkit.mvvm\\8.1.0\\communitytoolkit.mvvm.8.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
